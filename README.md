@@ -12,15 +12,24 @@ This document record my experience in wirting paper with Latex. So if you'd like
 ![bibtex](googleScholar.png)
 
 
+
 ## Figures
 - When showing results in the figure, please make the font size of the axis labels large enough so that reader can understand it.
 - Please store your figure in pdf format as pdf figure is vector figure. It will not collapse when zooming in.
 - Please put all figure files into one folder and refer to it in the latex with relative path, e.g., `\includegraphics[width=1.0\textwidth]{figures/autoencoder.pdf}`
 - When using the table to show example, especially with many rows, please using white-gray 
 
+
 ## Table
 - When using the table to show example, especially with many rows, please color alternative rows in [white and gray](https://tex.stackexchange.com/questions/5365). 
 - When we want to save space, you can use `\vspace{-2mm}` between the caption and the table, or between the caption and the main text.
+- If there are too many rows within the table, you can use command `\rowcolors{2}{gray!25}{white}` to color every alternate table row.
+- `\setlength{\tabcolsep}{0.7em}` can be used to squeeze the padding space between columns.
+
+
+## Macro
+- When there are multiple collaborators for paper writing, please use the macro command to highlight different color for each user like `\newcommand{\chen}[1]{\textcolor{red}{\textbf{Chen}: #1}}`.
+- If you have a tool to mention within the whole paper, you can give it a name with a macro like `\newcommand{\tool}{{\texttt{TOOL}}\xspace}`.
 
 ## Contact
 I will keep maintaining this guideline list, please feel free to clone or submit new suggestions to it. If you have further questions, please create an issue or drop me an email wchccy@gmail.com.
