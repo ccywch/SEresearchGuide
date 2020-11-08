@@ -9,7 +9,7 @@ This document record my experience in wirting paper with Latex. So if you'd like
 - For each section, figure, table, please attach a label to it with the command `\label{}`. Please name it with semantically e.g., `\label{sec:introduction}`, `\label{fig:comparisonResult}`, `\label{tab:goodExample}`. When referring the `figure/table/section` in the main text, please use `\ref` command e.g., `Fig. \ref{fig: comparisonResult}`. Note that please come up with a **semantic/meaningful** name for the label.
 - If multiple users are working on the latex, please make everyone write text in different colors. You can define a macro in the main file like \newcommand{\chunyang}[1]{\textcolor{blue}{\textbf{Chunyang}:#1}}. 
 - Please put all your references into a file (e.g., called `refercen.bib`), and import it using the latex command. Note that all bibtex can be copied-pasted from Google Scholar.
-![bibtex](googleScholar.png)
+![bibtex](googleScholar.png | width=200)
 - Do not add URL in the main text, but put your URL with command `\url{}` in the footnote.
 - When the overall draft is done, please try to adjust the figure/table position to try to make it align with the corresponding text.
 
