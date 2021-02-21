@@ -32,6 +32,16 @@ This document record my experience in wirting paper with Latex. So if you'd like
 - When there are multiple collaborators for paper writing, please use the macro command to highlight different color for each user like `\newcommand{\chen}[1]{\textcolor{red}{\textbf{Chen}: #1}}`.
 - If you have a tool to mention within the whole paper, you can give it a name with a macro like `\newcommand{\tool}{{\texttt{TOOL}}\xspace}`.
 
+
+## Metainfo
+Before paper submission (not camera ready), you may need to remove the meta-info (e.g., copyright) to save space. For example, you can remove the copyright info in ACM template with command lines: 
+```
+\setcopyright{none}
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+```
+
+
 ## Contact
 More examples can be seen at my [slides](FIT4003-paperDiscussion_short.pdf).
 I will keep maintaining this guideline list, and feel free to clone or submit new suggestions to it. If you have further questions, please create an issue or drop me an email wchccy@gmail.com.
