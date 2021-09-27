@@ -4,7 +4,7 @@ This is a repository documenting my suggestions about how to do research in soft
 I may update it from time to time including:
 * Tips about [paper writing](https://github.com/ccywch/SEresearchGuide/blob/master/SEpaperWriting.md) in software engineering.
 * Tips about [latex commands](https://github.com/ccywch/SEresearchGuide/blob/master/LatexWriting.md) in writing academic papers.
-* Tips about my practice in being a good SE PhD. 
+* Tips about [my practice](https://github.com/ccywch/SEresearchGuide/blob/master/PhDsuggestion.md) in being a good SE PhD. 
 
 Note that it may be of my bias and may not apply to everyone.
 You may take some suggestions according to your own preference and feel free to provide your suggestions.
