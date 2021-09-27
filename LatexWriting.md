@@ -1,6 +1,6 @@
 # The guide of paper writing in Latex
 
-This document record my experience in wirting paper with Latex. So if you'd like to collaborate with me in writing some research papers, please have a look at this guide.
+This document record my experience in writing a paper with LaTex. So if you'd like to collaborate with me in writing some research papers, please have a look at this guide.
 
 ## Overall:
 - Use the latex template downloaded from the official sites of the conference or journal.
@@ -11,18 +11,18 @@ This document record my experience in wirting paper with Latex. So if you'd like
 - Please put all your references into a file (e.g., called `refercen.bib`), and import it using the latex command. Note that all bibtex can be copied-pasted from Google Scholar.
 ![bibtex](googleScholar.png)
 - Do not add URL in the main text, but put your URL with command `\url{}` in the footnote.
-- When the overall draft is done, please try to adjust the figure/table position to try to make it align with the corresponding text.
+- When the overall draft is done, please try to adjust the figure/table position to make it align with the corresponding text.
 
 
 
 ## Figures
 - When showing results in the figure, please make the font size of the axis labels large enough so that reader can understand it.
-- Please store your figure in pdf format as pdf figure is vector figure. It will not collapse when zooming in.
+- Please store your figure in pdf format as pdf figure is a vector figure. It will not collapse when zooming in.
 - Please put all figure files into one folder and refer to it in the latex with relative path, e.g., `\includegraphics[width=1.0\textwidth]{figures/autoencoder.pdf}`
 
 
 ## Table
-- When using the table to show example, especially with many rows, please color alternative rows in [white and gray](https://tex.stackexchange.com/questions/5365) with command `\rowcolors{2}{gray!25}{white}` to color every alternate table row. 
+- When using the table to show examples, especially with many rows, please color alternative rows in [white and gray](https://tex.stackexchange.com/questions/5365) with command `\rowcolors{2}{gray!25}{white}` to color every alternate table row. 
 - When we want to save space, you can use `\vspace{-2mm}` between the caption and the table, or between the caption and the main text.
 - If there are too many rows within the table, you can use command `\rowcolors{2}{gray!25}{white}` to color every alternate table row.
 - `\setlength{\tabcolsep}{0.7em}` can be used to squeeze the padding space between columns.
@@ -34,7 +34,7 @@ This document record my experience in wirting paper with Latex. So if you'd like
 
 
 ## Metainfo
-Before paper submission (not camera ready), you may need to remove the meta-info (e.g., copyright) to save space. For example, you can remove the copyright info in ACM template with command lines: 
+Before paper submission (not camera-ready), you may need to remove the meta-info (e.g., copyright) to save space. For example, you can remove the copyright info in ACM template with command lines: 
 ```
 \setcopyright{none}
 \settopmatter{printacmref=false} % Removes citation information below abstract
