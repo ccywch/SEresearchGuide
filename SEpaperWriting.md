@@ -64,9 +64,10 @@ Please include:
 * Use formal words in academic writing, rather than oral words in daily speaking (e.g., pretty small)
 * For some terms, do not use them arbitrarily. If not sure, please refer to other papers or online articles/blogs/tutorials written by native speakers. Once determined, please use it consistenly across the whole paper.
 * Before writing the paper, you are higly suggested to come up with the overall sturcture and discuss with your supervisor. Then add figures, tables, algorithm while finally fill in detailed text.
+* If this is your first time in writing research papers, you are highly recommended to find one of your favorite papers (in the same type of yours) as the template for writing your own one.
 * Be very serious about drawing **pictures/figures/tables** which significantly influence readers' first expression.
 
 ## Other Useful links:
 1. [Draft Guidelines for My Students on Writing Software Engineering Research Papers](https://cragkhit.github.io/files/harman-writing-advice.pdf) by Mark Harman
 2. https://www.163.com/dy/article/G4I3L5CH05366EUH.html
-3. [The guide of paper writing in Latex] (https://github.com/ccywch/-LatexGuide)
+3. [The guide of paper writing in Latex] (https://github.com/ccywch/SEresearchGuide/blob/master/LatexWriting.md)
