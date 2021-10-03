@@ -9,6 +9,7 @@ I summarise my suggestions in several bullet points, but their order is of no me
 It is always good to carry out the literature review. 
 But different from reading without thinking, it would be great if you could bring your own questions when reading the paper e.g., what is the limitation of this paper, can that approach help solve my issues?
 This also applies to your postgraduate courses i.e., whether the approach taught in the lecture can be used in my current research?
+BTW, please read as many papers as possible (especially in your beginning days) to 1) understand the state-of-the-art, and 2) get familiar with the academic writing.
 
 ### Plan your research
 You can have 1) an abstract long-term plan (3-6 months) about your research and 2) a detailed daily plan (6 hours).
