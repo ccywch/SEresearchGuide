@@ -61,11 +61,13 @@ Please include:
 * Future works 
 
 ## Other general suggestions
+* Use short sentences with active voice in the paper, and keep the length of each paragraph consistent.
 * Use formal words in academic writing, rather than oral words in daily speaking (e.g., pretty small)
 * For some terms, do not use them arbitrarily. Please refer to other papers or online articles/blogs/tutorials written by native speakers. Once determined, please use it consistently across the whole paper.
 * Before writing the paper, you are highly suggested to come up with the overall structure and discuss it with your supervisor. Then add figures, tables, algorithms while finally fill in detailed text.
 * If this is your first time writing research papers, you are highly recommended to find one of your favorite papers (in the same type of yours) as the template for writing your own one.
 * Be very serious about drawing **pictures/figures/tables**, which significantly influence readers' first expression.
+* Before the paper submission, please ask non-authors to proofread it. If you are using Overleaf, please consider the [Grammerly extension](https://chrome.google.com/webstore/detail/overleaf-textarea/iejmieihafhhmjpoblelhbpdgchbckil?hl=en) on Chrome for grammar checking.
 
 ## Other Useful links:
 1. [Draft Guidelines for My Students on Writing Software Engineering Research Papers](https://cragkhit.github.io/files/harman-writing-advice.pdf) by Mark Harman
