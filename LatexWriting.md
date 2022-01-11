@@ -24,7 +24,6 @@ This document record my experience in writing a paper with LaTex. So if you'd li
 ## Table
 - When using the table to show examples, especially with many rows, please color alternative rows in [white and gray](https://tex.stackexchange.com/questions/5365) with command `\rowcolors{2}{gray!25}{white}` to color every alternate table row. 
 - When we want to save space, you can use `\vspace{-2mm}` between the caption and the table, or between the caption and the main text.
-- If there are too many rows within the table, you can use command `\rowcolors{2}{gray!25}{white}` to color every alternate table row.
 - `\setlength{\tabcolsep}{0.7em}` can be used to squeeze the padding space between columns.
 
 
