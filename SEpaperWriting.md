@@ -18,11 +18,11 @@ By default, write one short paragraph for each item of the list:
 * Motivation and benefit of this task
 * Existing studies and corresponding limitations
 * Our approach (1-2 paragraphs)
-* Evaluation (1-2 paragraphs)
+* Evaluation
 * A list of contributions (e.g., a novel approach for a novel question, an empirical study, an open-source tool, comprehensive evaluation)
 
 ## Approach
-* A flow chart for the overall approach
+* A flow chart for the overall approach (It always takes me one afternoon to draw)
 * Give some examples or draw some figures to demonstrate some steps in the approach 
 * For some complicated logic, either write some mathematic formula (represent the problem formally) or a pseudo-code algorithm
 
@@ -34,7 +34,7 @@ For automated accuracy evaluation, please tell:
 - Metrics
 - Baselines 
 - Evaluation results
-  - Comparison with baselines and tell why our model outperforms
+  - Comparison with baselines and summarize several reasons why our model outperforms
   - Error analysis: reasons why our model fails in some cases
   - Always give detailed examples to help illustrate the strength and shortcomings of our approach
 
@@ -66,7 +66,7 @@ Please include:
 * For some terms, do not use them arbitrarily. Please refer to other papers or online articles/blogs/tutorials written by native speakers. Once determined, please use it consistently across the whole paper.
 * Before writing the paper, you are highly suggested to come up with the overall structure and discuss it with your supervisor. Then add figures, tables, algorithms while finally fill in detailed text.
 * If this is your first time writing research papers, you are highly recommended to find one of your favorite papers (in the same type of yours) as the template for writing your own one.
-* Be very serious about drawing **pictures/figures/tables**, which significantly influence readers' first expression.
+* Be very serious about drawing **pictures/figures/tables**, which significantly influence readers' first expression, since a picture is worth a thousand words. 
 * Before the paper submission, please ask non-authors to proofread it. If you are using Overleaf, please consider the [Grammerly extension](https://chrome.google.com/webstore/detail/overleaf-textarea/iejmieihafhhmjpoblelhbpdgchbckil?hl=en) on Chrome for grammar checking.
 
 ## Other Useful links:
