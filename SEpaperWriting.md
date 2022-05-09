@@ -15,7 +15,7 @@ Briefly tell the approach and evaluation (give some numbers) in the rest.
 By default, write one short paragraph for each item of the list:
 * Background
 * Task formulation
-* Motivation and benefit of this task
+* Motivation and benefit of this task (find some statistics/evidence to support your claim)
 * Existing studies and corresponding limitations
 * Our approach (1-2 paragraphs)
 * Evaluation
