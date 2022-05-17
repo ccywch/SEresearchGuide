@@ -1,6 +1,6 @@
 # Lessons of writing rebuttal for top conferences in Software Engineering
 
-In software engineering domain, top conferences such as ICSE and FSE always require a rebuttal to given authors an opportunity to address reviewers’ concerns or misunderstandings. I have been writing rebuttals since 2015 with dozens of them submitted to FSE and ICSE. Although it did not change the results of my paper most times, rebuttal did work sometimes and even helped me win 2 ACM SIGSOFT Distinguished Awards. Since new students in my group always wonder how to write rebuttals, I summarize several tips below:
+In software engineering domain, top conferences such as ICSE and FSE always require a rebuttal to give authors an opportunity to address reviewers’ concerns or misunderstandings. I have been writing rebuttals since 2015 with dozens of them submitted to FSE and ICSE. Although it did not change the results of my paper most times, rebuttal did work sometimes and even helped me win 2 ACM SIGSOFT Distinguished Awards. Since new students in my group always wonder how to write rebuttals, I summarize several tips below:
 - Adopt different strategies to write your rebuttal accordingly:
   - When getting all positive reviews, do not say too much, but clarify minor issues and acknowledge reviewers. (Less is more)
   - When getting all negative reviews, no need to write a rebuttal, since you cannot convince reviewers with 12-page double-column papers, let alone 500-750 words.
