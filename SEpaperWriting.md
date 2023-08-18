@@ -68,8 +68,12 @@ Please include:
 * If this is your first time writing research papers, you are highly recommended to find one of your favorite papers (in the same type of yours) as the template for writing your own one.
 * Be very serious about drawing **pictures/figures/tables**, which significantly influence readers' first expression, since a picture is worth a thousand words. 
 * Before the paper submission, please ask non-authors to proofread it. If you are using Overleaf, please consider the [Grammerly extension](https://chrome.google.com/webstore/detail/overleaf-textarea/iejmieihafhhmjpoblelhbpdgchbckil?hl=en) on Chrome for grammar checking.
+* Less is more: Although research tends to involve many failed attempts and detours before landing on a successful idea, academic papers are structured as if you’ve had the one successful idea from the start.
+![One method](https://miro.medium.com/v2/resize:fit:1224/format:webp/1*ZLyx48sfoWr1sho1Bd6L9g.jpeg)
+
 
 ## Other Useful links:
 1. [Draft Guidelines for My Students on Writing Software Engineering Research Papers](https://cragkhit.github.io/files/harman-writing-advice.pdf) by Mark Harman
 2. https://www.163.com/dy/article/G4I3L5CH05366EUH.html
 3. [The guide of paper writing in Latex] (https://github.com/ccywch/SEresearchGuide/blob/master/LatexWriting.md)
+4. [Tips for Writing NLP Papers] (https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)
