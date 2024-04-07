@@ -6,6 +6,7 @@ I may update it from time to time including:
 * Tips about [paper writing](https://github.com/ccywch/SEresearchGuide/blob/master/SEpaperWriting.md) in software engineering.
 * Tips about [latex commands](https://github.com/ccywch/SEresearchGuide/blob/master/LatexWriting.md) in writing academic papers.
 * Tips about [rebuttal writing](https://github.com/ccywch/SEresearchGuide/blob/master/rebuttalWritting.md) for top conferences in software engineering.
+* Tips about [relocation to Heilbronn](https://github.com/ccywch/SEresearchGuide/blob/master/relocationHeilbronn.md)
 
 Note that it may be of my bias and may not apply to everyone.
 You may take some suggestions according to your own preference and feel free to provide your suggestions.
