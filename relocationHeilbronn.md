@@ -7,12 +7,15 @@ Hope that helps, and note that it may be out of date.
 ### Application for visa
 * Get the offer.
 * Make an appointment for visa application (very hard in China, do it when you get the oral offer).
+  * The appointment for visa application of researcher type in Shanghai has been switched to ordering all the applicants into a waiting list. And the waiting time is basically more than three months.
 * Be careful with your application material especially when applying for research-relevant ones, talk with your supervisor in advance.
 
 
 ### Before departure
 Please try to search the web, read tutorials, and talk with your friends in Germany.
 * Rent a place that can support anmeldung (registration). Can find a temporary fully-furnished residence first (Most Airbnb/Hotel do not support, Service Apartment may work e.g., Cinari). Ask for the landlord's confirmation in [an official doc](https://www.heilbronn.de/rathaus/buergerservice-a-z/inhalt/wohnungsgeberbestaetigung.html) which is critical to successful registration.
+  * Here are some aggregated sources provided by TUM Management school for finding a place to live, please check the "Find a place to call home" section on this [page](https://www.mgt.tum.de/campuses/heilbronn/living-in-heilbronn). And official website for some apartments: [shareside](https://www.shareside.de/standorte/heilbronn), [Rosenberg Quartier](https://rosenberg-quartier.de/)
+  * If you want to rent an apartment, please confirm whether the apartment allows non-student renting by writing an email or making a phone call to the apartment. It takes a long time for PhD to apply for the studentship, so mostly we are regarded as non-student.
 * Make an [online appointment](https://www.heilbronn.de/rathaus/buergerservice-a-z/inhalt/terminreservierung.html) about anmeldung in Rathaus. (Great to be the day immediately after your arrival)
 * May need to prepare some law-allowed-amount cash (Germany is not that digitalized and you do not have banking account in the first few days)
 * Book air ticket smartly (Great to arrive in Stuggart, but mostly in Frankfurt), and suggest buying the long-distance train ticket in the train station as your flight may be delayed (Buy Deutschland ticket two days before in DB app).
