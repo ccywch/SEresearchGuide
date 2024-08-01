@@ -19,7 +19,7 @@ Please try to search the web, read tutorials, and talk with your friends in Germ
 * Make an [online appointment](https://www.heilbronn.de/rathaus/buergerservice-a-z/inhalt/terminreservierung.html) about anmeldung in Rathaus. (Great to be the day immediately after your arrival)
 * May need to prepare some law-allowed-amount cash (Germany is not that digitalized and you do not have banking account in the first few days)
 * Book air ticket smartly (Great to arrive in Stuggart, but mostly in Frankfurt), and suggest buying the long-distance train ticket in the train station as your flight may be delayed (Buy Deutschland ticket two days before in DB app).
-* Learn health insurance in Germany (mostly statutory)
+* Learn health insurance in Germany (mostly statutory), a commonly used insurance is TK, and one very responsive agent is Natascha.Edelmann@tk.de.
 * Do some physical exercise as you may walk a lot for different admin stuff :-)
 
 
