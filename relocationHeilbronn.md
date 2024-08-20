@@ -18,7 +18,10 @@ Please try to search the web, read tutorials, and talk with your friends in Germ
   * If you want to rent an apartment, please confirm whether the apartment allows non-student renting by writing an email or making a phone call to the apartment. It takes a long time for PhD to apply for the studentship, so mostly we are regarded as non-student.
 * Make an [online appointment](https://www.heilbronn.de/rathaus/buergerservice-a-z/inhalt/terminreservierung.html) about anmeldung in Rathaus. (Great to be the day immediately after your arrival)
 * May need to prepare some law-allowed-amount cash (Germany is not that digitalized and you do not have banking account in the first few days)
-* Book air ticket smartly (Great to arrive in Stuggart, but mostly in Frankfurt), and suggest buying the long-distance train ticket in the train station as your flight may be delayed (Buy Deutschland ticket two days before in DB app).
+* Book air ticket smartly (Great to arrive in Stuggart, but mostly in Frankfurt), and suggest buying the long-distance train ticket in the train station as your flight may be delayed (Buy Deutschland ticket two days before in DB app). The way to come to Heilbronn from Frankfurt airport:
+   - Flixbus, a direct bus from the airport to the main train station in Heilbronn (most convenient way).
+   - DB, one train station in Frankfurt airport, but need to transfer >1 times, not very reliable.
+   - Uber/Bolt/Blablacar, expensive but quick and door-to-door, do not take taxi!
 * Learn health insurance in Germany (mostly statutory), a commonly used insurance is TK, and one very responsive agent is Natascha.Edelmann@tk.de.
 * Do some physical exercise as you may walk a lot for different admin stuff :-)
 
