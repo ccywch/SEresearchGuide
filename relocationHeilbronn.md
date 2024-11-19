@@ -39,6 +39,7 @@ Do other stuff in parallel once you get the residence permit:
 * Try to talk with your supervisor or assistant to request a high-performance workstation (maybe with Nvidia RTX-4090 GPU), rather than a laptop much before departure.
 * Request campus card to access a list of services in Bildungscampus Heilbronn e.g., your workplace, canteen, library, free shared bike, etc.
 * It takes time to get the access to intranet, be patient.
+* More detailed information for onboarding at TUM can be seen at https://www.tum.de/en/community/onboarding
 
 ### Tips
 * If you do not know German, please install Google Translate on all your device (e.g., extension in Chrome, app in your phone), and it will save your life :-)
