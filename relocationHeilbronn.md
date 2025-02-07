@@ -2,7 +2,7 @@
 
 Germany is a very unique country, and there is quite a lot to do to relocate to Germany from the countries outside.
 Based on my own experience in TUM in early 2024, I'd like to show some guidelines, resources and tips to move to Heilbronn.
-Hope that helps, and note that it may be out of date.
+Hope that helps, and note that it may be out of date. Some official [documents](https://collab.dvb.bayern/display/TUMcit/Onboarding_INT?showLanguage=en_GB) from TUM may be very helpful.
 
 ### Application for visa
 * Get the offer.
