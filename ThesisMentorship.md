@@ -6,7 +6,7 @@ These thesis training not only benefits students, but also mentors in terms of:
   * leadership & team management
   * teaching load counted
   * research progress and implementation
-I suggest each Postdoc to mentor 3-5 thesis students, and each PhD to mentor 2-3 thesis students. 
+I suggest each Postdoc to mentor 3-5 thesis students, and each PhD to mentor 2-3 thesis students (at most 2 for first-year PhD students). 
 
 ### Tips to mentor thesis students
 Please try to be nice and responsible to students.
@@ -23,12 +23,20 @@ Please try to be nice and responsible to students.
   * Share their progress with the professor from time to time.
   * GitHub Repo or Google Drive to host all relevant code, documentation, etc.
   * Try to teach them to write thesis in [LaTex](LatexWriting.md).
+ 
+### Deliverables
+* Students submit thesis report at least one week before the defence. They can only do the oral defence after an initial formality check by their supervisor.
+* The thesis report should not be too long (<40 pages for single column), and there is no official template, but both English and German titles should be included in the preface. 
+* All oral defence will only happen once a month with me as the examiner (20mins for presentation, 10mins for Q&A).
+* The grade should be based on both thesis report and oral defence, and will liekly be released at the same week as the oral defence.
+* We encourage the on-site oral defence (compulsory for students in Heilbronn), but also provide remote options to students in Munich.
+* Ask your supervisor to the access to the presentation sheet and thesis presentation is open to public. 
 
 
 ### Specific notes to TUM
 * Check detailed information in [CIT official website](https://www.cit.tum.de/cit/studium/studierende/abschlussarbeit-abschluss/informatik/).
 * Come up with your thesis topics and put it into our chair website for promotion.
-* Thesis length is 6 months, and unlikely to be extended.
+* Thesis length is 6 months for master's, while 4 months for bachelor's, and unlikely to be extended. If done earlier, students can submit much earlier than the deadline.
 * Thesis mentorship can be counted to teaching load, 1 Master = 0.6 ECTS, 1 Bachelor = 0.2 ECTS, sum cap at 2 ECTS.
 * All thesis needs to be registered and graded formally in the central system by the professor.
 * Some thesis may be carried out in industry, but mainly determined by their manager in industry. May not be relevant but good opportunity to build industry connections.
